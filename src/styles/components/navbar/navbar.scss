@@ -1,0 +1,58 @@
+.header-container {
+	width: 100%;
+	display: block;
+	position: absolute;
+	z-index: 50;
+}
+
+.navbar {
+	background-color: rgba(36, 36, 36, 0.6);
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.navbar-links {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
+	margin: 0;
+
+	li {
+		text-align: center;
+	}
+}
+
+.navbar-link {
+	margin-left: 25px;
+	margin-right: 25px;
+
+	a {
+		font-family: "Whitney SSm A","Whitney SSm B",Arial,sans-serif;
+		color: white;
+		text-decoration: none;
+		font-size: 16px;
+		font-weight: 600;
+		text-transform: uppercase;
+	}
+}
+
+.icon-container {
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+.unit-logo {
+	height: 90px;
+	width: 90px;
+}
+
+.navbar-links {
+	li {
+		list-style-type: none;
+	}
+}

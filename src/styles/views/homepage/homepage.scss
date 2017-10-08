@@ -1,0 +1,83 @@
+.hero-image {
+	max-width: 100%;
+	overflow: hidden;
+	margin-bottom: -250px;
+
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.homepage-hero-title {
+	color: white;
+	font-family: "Whitney SSm A","Whitney SSm B",Arial,sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 45px;
+	margin-top: 0;
+}
+
+.homepage-hero-subtitle {
+	color: white;
+	font-family: "Whitney SSm A","Whitney SSm B",Arial,sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 32px;
+	margin-top: 10px;
+}
+
+.homepage-hero-body {
+	color: white;
+	font-family: "Whitney SSm A","Whitney SSm B",Arial,sans-serif;
+	font-weight: 300;
+	text-align: center;
+	font-size: 13px;
+	line-height: 25px;
+	margin-top: 10px;
+}
+
+.homepage-hero-button {
+	display: block;
+	font-size: 14px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 32px;
+	padding-right: 32px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	background-color: white;
+	font-family: "Whitney SSm A","Whitney SSm B",Arial,sans-serif;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(0, 23, 49);
+	text-decoration: none;
+
+	&:hover {
+		background-color: rgb(49, 115, 181);
+		color: white;
+	}
+}
+
+.homepage-button-banner {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.homepage-link-div {
+	text-decoration: none;
+}
+
+.bold {
+	font-weight: 600;
+}
+
+.equipment-image {
+	width: 100%;
+}
