@@ -54,7 +54,7 @@ const IndexPage = () => (
 				<h2 className="homepage-hero-subtitle">M2A3 Bradley</h2>
 				<img className="equipment-image" src={BradleyImage} />
 				<p className="homepage-hero-body">
-					The Bradley is a Infantry Fighting Vehicle used by the US Army. The A3 variant is the latest in the Bradley series and features a much improved
+					The Bradley is an Infantry Fighting Vehicle used by the US Army. The A3 variant is the latest in the Bradley series and features a much improved
 					fire control system in addition to the BUSK (Bradley Urban Survival Kit) which fits reactive armour plating to the vehicle in order to improve it's
 					survivability against explosives and anti armour munitions.
 				</p>
