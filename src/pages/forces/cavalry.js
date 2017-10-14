@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
-import CavalryHeader from "../../images/cavalry-desert.jpeg"
+import CavalryHeader from "../../images/cavalry-desert.png"
 import PaladinImage from "../../images/paladin.jpg"
 import BradleyImage from "../../images/bradley.png"
 
