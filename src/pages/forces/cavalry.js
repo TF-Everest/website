@@ -6,7 +6,7 @@ import CavalryHeader from "../../images/cavalry-desert.jpeg"
 import PaladinImage from "../../images/paladin.jpg"
 import BradleyImage from "../../images/bradley.png"
 
-const IndexPage = () => (
+const CavalryPage = () => (
 	<div>
 		<Helmet
 			title={`Task Force Everest - Cavalry Regiment "Mustang"`}
@@ -71,4 +71,4 @@ const IndexPage = () => (
 	</div>
 )
 
-export default IndexPage
+export default CavalryPage
