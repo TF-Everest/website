@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
-import ForestImage from "../images/infantry-woodland.jpeg"
+import BriefingImage from "../images/briefing.png"
 
 const OurUnitPage = () => (
 	<div>
@@ -10,7 +10,7 @@ const OurUnitPage = () => (
 			title="Task Force Everest - About Our Unit"
 		/>
 		<div className="hero-image">
-			<img src={ForestImage} />
+			<img src={BriefingImage} />
 		</div>
 		<div className="content-row fixed-width-container" style={{ zIndex: 2, position: 'relative' }}>
 			<div className="full-row light-grey-block homepage-button-banner">
