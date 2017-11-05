@@ -27,7 +27,7 @@ const IndexPage = () => (
             </div>
             <div className="half-row blue-block" style={{ height: 200, marginTop: 200 }}>
                 <h2 className="homepage-hero-subtitle">Enlist Today</h2>
-                <Link className="homepage-hero-button" to="/careers">View our open positions</Link>
+                <Link className="homepage-hero-button" to="/careers">View our enlistment options</Link>
             </div>
         </div>
         <div className="content-row fixed-width-container" style={{ zIndex: 2, position: 'relative' }}>

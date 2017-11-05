@@ -41,7 +41,9 @@ const OurUnitPage = () => (
 					<h2 className="homepage-hero-title">New Players</h2>
 					<p className="homepage-hero-body">
 						Players that are new to the ARMA franchise are welcome in Task Force Everest. 
-						<br /> We offer a comprehensive training program targetted at new players called the Introduction to ARMA that offers guidance on controls and mechanics of ARMA before you take BCT. 
+					</p>
+					<p className="homepage-hero-body">
+						We offer a comprehensive training program targetted at new players called the Introduction to ARMA that offers guidance on controls and mechanics of ARMA before you take BCT. 
 						This helps new players keep up with even the most experienced ARMA players during training so they can get the most from their experience.
 					</p>
 					<p className="homepage-hero-body">
@@ -59,12 +61,12 @@ const OurUnitPage = () => (
 					<h2 className="homepage-hero-title">Experienced ARMA Players</h2>
 					<p className="homepage-hero-body">
 						Players that have experience with ARMA III or MILSIM already may wish to apply for more challenging or complex roles within either the Infantry or Cavarly elements of the Task Force.
-						<br />
-						We offer an accredited transfer program which will allow you to test out of areas of our training pipeline where you have existing knowledge and proceed to more advanced functions in the group.
-						<br />
-						Those with leadership experience may also be interested in applying to the Infantry Leadership program to kickstart their journey in the group as a combat leader.
 					</p>
 					<p className="homepage-hero-body">
+						We offer an accredited transfer program which will allow you to test out of areas of our training pipeline where you have existing knowledge and proceed to more advanced functions in the group.
+					</p>
+					<p className="homepage-hero-body">
+						Those with leadership experience may also be interested in applying to the Infantry Leadership program to kickstart their journey in the group as a combat leader.
 					</p>
 					<div className="half-row">
 						<a className="homepage-hero-button" href="https://goliath.tf-everest.com/apply/application">Enlist</a>
