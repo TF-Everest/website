@@ -88,6 +88,19 @@ const InfantryPage = () => (
 				</p>
 			</div>
 		</div>
+		<div className="content-row fixed-width-container" style={{ zIndex: 2, marginBottom: 50, position: 'relative' }}>
+			<div className="full-row light-grey-block homepage-button-banner">
+				<div className="half-row">
+					<h2 className="homepage-hero-subtitle">Looking to transfer?</h2>
+					<p className="homepage-hero-body">
+						We offer an accredited transfer program from other MILSIM groups that will allow you to cross certify equivalent training programs offered by Task Force Everest.
+					</p>
+				</div>
+				<div className="half-row">
+					<Link className="homepage-hero-button" to="/careers">Learn More</Link>
+				</div>
+			</div>
+		</div>
 	</div>
 )
 

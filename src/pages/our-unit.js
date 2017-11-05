@@ -40,11 +40,16 @@ const OurUnitPage = () => (
 					<p className="homepage-hero-body">
 						<span className="bold">Official Operations: </span> <br />2000 GMT/BST - 2200 GMT/BST Saturday
 						<br /><br />
-						<span className="bold">Unit Training: </span> <br />2000 GMT/BST - 2200 GMT/BST Sunday
-						<br /><br />
-						<span className="bold">Basic Combat Training: </span> <br />2100 GMT/BST - 2230 GMT/BST Wednesday
-						<br /><br />
-						<span className="bold">Advanced Individual Training: </span> <br />2100 GMT/BST - 2230 GMT/BST Tuesday
+						<span className="bold">Unit Training Programs: </span> <br />1800 GMT/BST - 2200 GMT/BST Sunday
+					</p>
+					<p className="homepage-hero-body">
+						Members are required to attend at least one training and two operations each month to maintain an Active Duty status within the Unit.
+					</p>
+					<p className="homepage-hero-body">
+						All members require BCT and AIT certifications before being allowed to take part in scheduled operations.
+					</p>
+					<p className="homepage-hero-body">
+						We hold unofficial operations and events regularly during the week for members to take part in.
 					</p>
 				</div>
 			</div>

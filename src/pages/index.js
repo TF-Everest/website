@@ -65,7 +65,7 @@ const IndexPage = () => (
                     Members of the 1st Infantry train on a wide variety of realistic infantry tactics inspired by both British and American military doctrine.
                 </p>
             </Link>
-            <Link to="/forces/fleet-air" className="half-row grey-block homepage-link-div" style={{ }}>
+            <Link to="/forces/fleet-air-arm" className="half-row grey-block homepage-link-div" style={{ }}>
                 <h2 className="homepage-hero-subtitle">Royal Navy <br /> Fleet Air Arm</h2>
                 <p className="homepage-hero-body">
                     The Royal Navy Fleet Air Arm is responsible for the operation and maintenance of Britain's maritime air presence.
