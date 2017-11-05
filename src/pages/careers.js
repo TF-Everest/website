@@ -27,7 +27,7 @@ const OurUnitPage = () => (
                 <div className="half-row">
                     <h2 className="homepage-hero-subtitle">Have questions?</h2>
                     <p className="homepage-hero-body">
-                        Our recruitment team is happy to help address and questions or concerns you may have prior to your enlistment.
+                        Our recruitment team is happy to help address any questions or concerns you may have prior to your enlistment.
                     </p>
                 </div>
                 <div className="half-row">
