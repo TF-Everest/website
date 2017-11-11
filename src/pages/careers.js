@@ -60,7 +60,7 @@ const OurUnitPage = () => (
 				<div className="three-quarter-row">
 					<h2 className="homepage-hero-title">Experienced ARMA Players</h2>
 					<p className="homepage-hero-body">
-						Players that have experience with ARMA III or MILSIM already may wish to apply for more challenging or complex roles within either the Infantry or Cavarly elements of the Task Force.
+						Players that have experience with ARMA III or MILSIM already may wish to apply for more challenging or complex roles within either the Infantry or Cavalry elements of the Task Force.
 					</p>
 					<p className="homepage-hero-body">
 						We offer an accredited transfer program which will allow you to test out of areas of our training pipeline where you have existing knowledge and proceed to more advanced functions in the group.
